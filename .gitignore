@@ -2,3 +2,5 @@ global_concatenado.csv
 dataset_3comp_limpio.csv
 dataset_4comp_limpio.csv
 /.venv
+global_concatenado/*
+*.parquet
