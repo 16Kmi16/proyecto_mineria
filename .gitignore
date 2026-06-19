@@ -1,4 +1,6 @@
 /global_concatenado
 dataset_3comp_limpio.csv
 dataset_4comp_limpio.csv
+dataset_3comp_for_graph.csv
+dataset_4comp_for_graph.csv
 /.venv
