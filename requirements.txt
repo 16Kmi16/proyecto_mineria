@@ -3,3 +3,4 @@ matplotlib
 pyarrow
 ipykernel
 argparse
+scikit-learn
